@@ -3,3 +3,5 @@
 This is a hackathon submission for HackAI 2021
 
 ![Screenshot](Capture.PNG)
+
+The front end mockup for our app was made using java in processing and interfaces with a python script via a sockets server
