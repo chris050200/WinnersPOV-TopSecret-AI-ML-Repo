@@ -2,7 +2,7 @@
 
 This is a hackathon submission for HackAI 2021
 
-HappyPatient improves hospital conditions by providing natural language insights on anonymized survey and review data. 
+HappyPatient improves hospital conditions by providing natural language insights on anonymized patient survey and review data. 
 
 ![Screenshot](Capture.PNG)
 
