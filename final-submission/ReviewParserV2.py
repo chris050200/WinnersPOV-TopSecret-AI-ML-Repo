@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 
 # Super Secret API key, please don't steal from me or I will be sad
-os.environ["OPENAI_API_KEY"] = "sk-FPYUOFS9qgYnrdEJOhWj5W9rkzZoryXVwgGlRw76"  # change this to your key
+os.environ["OPENAI_API_KEY"] = "YOUR-API-KEY"  # change this to your key
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
 # Note that you may need to change the encoding away from utf8 depending on the input file format.
